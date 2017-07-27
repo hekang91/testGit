@@ -25,3 +25,5 @@ autolabel(rect)
 
 plt.show()
 rect = plt.bar(left = (0,1),height = (1,0.5),width = 0.35,align="center",yerr=0.000001)
+
+#-- test git
